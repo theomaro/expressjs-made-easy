@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Web development",
+    "price": 330,
+    "duration": "3 weeks"
+  },
+  {
+    "id": 2,
+    "name": "Mobile app development",
+    "price": 250,
+    "duration": "2 weeks"
+  },
+  {
+    "id": 3,
+    "name": "Blockchain development",
+    "price": 670,
+    "duration": "3 weeks"
+  },
+  {
+    "id": 4,
+    "name": "UI/UX design",
+    "price": 670,
+    "duration": "3 weeks"
+  },
+  {
+    "id": 5,
+    "name": "AI & Machine Learning",
+    "price": 670,
+    "duration": "3 weeks"
+  }
+]
